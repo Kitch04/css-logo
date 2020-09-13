@@ -1,3 +1,16 @@
+body {
+  background-image: url("paper.gif");
+  background-repeat: repeat-x;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+footer {
+  margin-top: 720px;
+  margin-left: 770px;
+}
+
 body
 {
     margin: 0;
